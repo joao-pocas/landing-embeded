@@ -1,0 +1,17 @@
+.icons {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 500px;
+  padding-right: 500px;
+  margin-top: 5px;
+}
+
+#texticon1, #texticon2, #texticon3 {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+
+

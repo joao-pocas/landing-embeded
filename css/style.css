@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Nunito+Sans:opsz,wght@6..12,300;6..12,500;6..12,700;6..12,900&family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/container2.css");
+
+@import url("components/container3.css");
+
+@import url("components/container4.css");
+
+@import url("components/icons.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/cards.css");
+
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: #EFEFEF;
+}
+
+h1, h2, h3, p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 40px;
+}
+
+#second {
+  font-weight: 800;
+  opacity: 0.97;
+  margin-bottom: 25px;
+  font-size: 30px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+
+#aboutus {
+  text-align: center;
+  font-weight: 900;
+  color: #8223ff;
+}
+
+h3 {
+  font-weight: 400;
+  text-align: justify;
+}
+
+#process {
+  margin-top: 140px;
+  text-align: center;
+  font-weight: 900;
+  color: #8223ff;
+}
+
+.card {
+  margin: 10px;
+}
+
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 35px;
+}
+
+#fourth {
+  font-weight: 700;
+  opacity: 0.97;
+  margin-bottom: -15px;
+  font-size: 30px;
+}
+
+.boxfinal {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+#texticon1 {
+  margin-left: 190px;
+  margin-top: 0px;
+}
+
+#texticon2 {
+  margin-right: 35px;
+  margin-top: 0px;
+}
+
+#texticon3 {
+  margin-right: 215px;
+  margin-top: 0px;
+}
+
+
+

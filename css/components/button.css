@@ -1,0 +1,16 @@
+.btn-blue {
+  background-color: rgba(15, 160,200, 1);
+  padding: 15px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Nunito Sans', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.btn-blue:hover {
+  background-color: rgba(15, 160,200, 0.7);
+  ease-in-out: 3s;
+}
+
+
